@@ -1,2 +1,2 @@
 # Human-centered-AI-for-health-autonomy-and-well-being
-Human-centered AI for health, autonomy and well-being
+Hi, I'm Naveed, an identity researcher and freelancer specializing in Human-centered AI focused on health, autonomy, and well-being. I develop code using ChatGPT and Python to create models, diagrams, and tables for research aimed at improving community well-being. All of my code is free, and I also offer free training on how to use it. These tools are designed to assist in transitional and rehabilitation processes, where data-driven systems play a vital role in supporting individuals and communities in transformative journeys towards well-being. I hold an MS in Management Sciences, with a focus on Green HRM. Thank you!
